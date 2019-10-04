@@ -1,0 +1,21 @@
+.correct {
+  color: green;
+}
+
+.wrong {
+  color: red;
+  background: pink;
+}
+
+.done {
+  color: gray;
+  text-decoration: line-through;
+}
+
+div {
+  width: 100px;
+  height: 100;
+  background: teal;
+  float: left;
+  margin: 20px;
+}
